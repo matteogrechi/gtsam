@@ -20,8 +20,8 @@
 #include <gtsam/base/timing.h>
 #include <gtsam/base/Vector.h>
 #include <gtsam/base/FastList.h>
-#include <Eigen/SVD>
-#include <Eigen/LU>
+#include <eigen3/Eigen/SVD>
+#include <eigen3/Eigen/LU>
 
 #include <cstdarg>
 #include <cstring>

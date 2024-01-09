@@ -21,7 +21,7 @@
 #include <gtsam/geometry/Point2.h>
 #include <gtsam/geometry/Point3.h>
 
-#include <Eigen/Core>
+#include <eigen3/Eigen/Core>
 #include <string>
 #include <utility>
 #include <vector>

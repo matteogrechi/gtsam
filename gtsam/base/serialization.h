@@ -20,7 +20,7 @@
 #ifdef GTSAM_ENABLE_BOOST_SERIALIZATION
 #pragma once
 
-#include <Eigen/Core>
+#include <eigen3/Eigen/Core>
 #include <fstream>
 #include <sstream>
 #include <string>

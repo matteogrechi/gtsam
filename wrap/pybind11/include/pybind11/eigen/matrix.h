@@ -24,8 +24,8 @@ PYBIND11_WARNING_DISABLE_MSVC(5054) // https://github.com/pybind/pybind11/pull/3
 PYBIND11_WARNING_DISABLE_GCC("-Wmaybe-uninitialized")
 #endif
 
-#include <Eigen/Core>
-#include <Eigen/SparseCore>
+#include <eigen3/Eigen/Core>
+#include <eigen3/Eigen/SparseCore>
 
 PYBIND11_WARNING_POP
 

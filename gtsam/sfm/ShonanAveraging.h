@@ -30,7 +30,7 @@
 #include <gtsam/linear/AcceleratedPowerMethod.h>
 #include <gtsam/slam/dataset.h>
 
-#include <Eigen/Sparse>
+#include <eigen3/Eigen/Sparse>
 #include <map>
 #include <string>
 #include <type_traits>

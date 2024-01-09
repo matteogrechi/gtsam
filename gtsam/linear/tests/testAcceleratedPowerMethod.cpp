@@ -26,9 +26,9 @@
 #include <gtsam/linear/GaussianFactorGraph.h>
 #include <gtsam/linear/tests/powerMethodExample.h>
 
-#include <Eigen/Core>
-#include <Eigen/Dense>
-#include <Eigen/Eigenvalues>
+#include <eigen3/Eigen/Core>
+#include <eigen3/Eigen/Dense>
+#include <eigen3/Eigen/Eigenvalues>
 #include <iostream>
 #include <random>
 

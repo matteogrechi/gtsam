@@ -21,7 +21,7 @@
 #include <gtsam/base/concepts.h>
 #include <gtsam/geometry/SO3.h>
 
-#include <Eigen/SVD>
+#include <eigen3/Eigen/SVD>
 
 #include <cmath>
 #include <iostream>

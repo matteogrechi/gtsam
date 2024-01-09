@@ -26,7 +26,7 @@
 #include <gtsam/linear/GaussianFactorGraph.h>
 #include <gtsam/linear/VectorValues.h>
 
-#include <Eigen/Sparse>
+#include <eigen3/Eigen/Sparse>
 
 namespace gtsam {
 

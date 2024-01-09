@@ -22,8 +22,8 @@
 #include <gtsam/base/Matrix.h>
 #include <gtsam/base/Vector.h>
 
-#include <Eigen/Core>
-#include <Eigen/Sparse>
+#include <eigen3/Eigen/Core>
+#include <eigen3/Eigen/Sparse>
 #include <random>
 #include <vector>
 #include <optional>

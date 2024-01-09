@@ -23,7 +23,7 @@
 #include <gtsam/inference/Key.h>
 #include <gtsam/base/Manifold.h>
 
-#include <Eigen/Core>
+#include <eigen3/Eigen/Core>
 
 #include <iostream>
 #include <optional>

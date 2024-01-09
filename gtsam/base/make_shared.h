@@ -19,7 +19,7 @@
 
 #include <gtsam/base/types.h>
 
-#include <Eigen/Core>
+#include <eigen3/Eigen/Core>
 
 
 #include <type_traits>

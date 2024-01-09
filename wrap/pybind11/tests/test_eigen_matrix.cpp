@@ -15,7 +15,7 @@
 
 PYBIND11_WARNING_DISABLE_MSVC(4996)
 
-#include <Eigen/Cholesky>
+#include <eigen3/Eigen/Cholesky>
 
 using MatrixXdR = Eigen::Matrix<double, Eigen::Dynamic, Eigen::Dynamic, Eigen::RowMajor>;
 

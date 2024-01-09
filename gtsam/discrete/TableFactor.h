@@ -21,7 +21,7 @@
 #include <gtsam/discrete/DiscreteKey.h>
 #include <gtsam/inference/Ordering.h>
 
-#include <Eigen/Sparse>
+#include <eigen3/Eigen/Sparse>
 #include <algorithm>
 #include <map>
 #include <memory>

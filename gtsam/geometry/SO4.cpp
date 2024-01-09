@@ -21,7 +21,7 @@
 #include <gtsam/geometry/SO4.h>
 #include <gtsam/geometry/Unit3.h>
 
-#include <Eigen/Eigenvalues>
+#include <eigen3/Eigen/Eigenvalues>
 
 #include <algorithm>
 #include <cmath>

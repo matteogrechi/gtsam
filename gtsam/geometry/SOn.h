@@ -22,7 +22,7 @@
 #include <gtsam/base/Manifold.h>
 #include <gtsam/base/make_shared.h>
 #include <gtsam/dllexport.h>
-#include <Eigen/Core>
+#include <eigen3/Eigen/Core>
 
 #ifdef GTSAM_ENABLE_BOOST_SERIALIZATION
 #include <boost/serialization/nvp.hpp>

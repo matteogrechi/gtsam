@@ -17,7 +17,7 @@
 #    pragma warning(disable : 4996) // C4996: std::unary_negation is deprecated
 #endif
 
-#include <Eigen/Cholesky>
+#include <eigen3/Eigen/Cholesky>
 
 using MatrixXdR = Eigen::Matrix<double, Eigen::Dynamic, Eigen::Dynamic, Eigen::RowMajor>;
 

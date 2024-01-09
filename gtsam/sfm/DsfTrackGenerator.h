@@ -20,7 +20,7 @@
 #include <gtsam/base/DSFMap.h>
 #include <gtsam/sfm/SfmTrack.h>
 
-#include <Eigen/Core>
+#include <eigen3/Eigen/Core>
 #include <map>
 #include <optional>
 #include <vector>

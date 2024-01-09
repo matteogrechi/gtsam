@@ -27,7 +27,7 @@
 #include <gtsam/base/FastVector.h>
 #include <gtsam/base/Testable.h>
 
-#include <Eigen/Core>  // for Eigen::aligned_allocator
+#include <eigen3/Eigen/Core>  // for Eigen::aligned_allocator
 
 #ifdef GTSAM_ENABLE_BOOST_SERIALIZATION
 #include <boost/serialization/nvp.hpp>

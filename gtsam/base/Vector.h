@@ -26,7 +26,7 @@
 #endif
 
 #include <gtsam/global_includes.h>
-#include <Eigen/Core>
+#include <eigen3/Eigen/Core>
 #include <iosfwd>
 #include <list>
 

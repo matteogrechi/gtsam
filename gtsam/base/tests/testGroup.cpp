@@ -17,7 +17,7 @@
 
 #include <gtsam/base/Group.h>
 #include <gtsam/base/Testable.h>
-#include <Eigen/Core>
+#include <eigen3/Eigen/Core>
 #include <iostream>
 
 namespace gtsam {
